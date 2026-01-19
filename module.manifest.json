@@ -1,0 +1,16 @@
+{
+  "moduleId": "webwaka-core-messaging",
+  "version": "0.0.0",
+  "class": "core",
+  "name": "Messaging Core",
+  "description": "Communication & Media - Messaging and chat services",
+  "repository": "https://github.com/changerplanet/webwaka-core-messaging",
+  "author": "WebWaka Team",
+  "license": "TBD",
+  "capabilities": [],
+  "dependencies": [],
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js"
+  }
+}
